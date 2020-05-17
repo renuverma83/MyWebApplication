@@ -1,0 +1,14 @@
+C:\Users\RenuVerma\MyWebApplication\bin\Debug\netcoreapp2.2\MyWebApplication.deps.json
+C:\Users\RenuVerma\MyWebApplication\bin\Debug\netcoreapp2.2\MyWebApplication.runtimeconfig.json
+C:\Users\RenuVerma\MyWebApplication\bin\Debug\netcoreapp2.2\MyWebApplication.runtimeconfig.dev.json
+C:\Users\RenuVerma\MyWebApplication\bin\Debug\netcoreapp2.2\MyWebApplication.dll
+C:\Users\RenuVerma\MyWebApplication\bin\Debug\netcoreapp2.2\MyWebApplication.pdb
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.csprojAssemblyReference.cache
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.RazorAssemblyInfo.cache
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.RazorAssemblyInfo.cs
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.AssemblyInfoInputs.cache
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.AssemblyInfo.cs
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.dll
+C:\Users\RenuVerma\MyWebApplication\obj\Debug\netcoreapp2.2\MyWebApplication.pdb
